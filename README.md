@@ -176,15 +176,18 @@ Agentes de IA
 ---
 
 ## 📚 Tecnologias da minha rotina
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-Intermediário-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-<br>
+
 
 <img src="https://img.shields.io/badge/PHP-Intermediário-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-Intermediário-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-<br>
+
 
 <img src="https://img.shields.io/badge/IA_Generativa-OpenAI_•_OpenCode_•_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 
