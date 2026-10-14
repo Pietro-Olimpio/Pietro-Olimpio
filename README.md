@@ -269,7 +269,7 @@ Aqui compartilho projetos, exercícios e aplicações desenvolvidos durante meus
 <a href="https://github.com/Pietro-Olimpio">
   <img src="https://img.shields.io/badge/GitHub-Pietro--Olimpio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/pietro-correa-3bb29">
+<a href="https://www.linkedin.com/in/pietro-correa-3bb29b414/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
