@@ -253,20 +253,6 @@ Aqui compartilho projetos, exercícios e aplicações desenvolvidos durante meus
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pietro-Olimpio&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Olimpio&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 📫 Contato
 
 <a href="https://github.com/Pietro-Olimpio">
